@@ -237,11 +237,3 @@ If CRC32 verification fails after OTA, the bootloader clears the BANK_B boot fla
 - ✅ Rollback to bank A on CRC failure
 
 ---
-
-## Images
-
-images/
-├── ota_progress.png         → ESP32 Serial Monitor showing chunk progress
-├── aws_job_succeeded.png    → AWS console showing Job Succeeded
-├── crc_match.png            → STM32 debug output showing CRC OK
-└── system_architecture.png  → Block diagram
