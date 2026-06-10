@@ -9,15 +9,15 @@ A complete end-to-end Over-the-Air (OTA) firmware update pipeline for an STM32F4
 
 > OTA update in progress — ESP32-S3 downloading firmware from AWS S3 and streaming to STM32 over UART
 
-![OTA Progress](images/ota_progress.png)
+![OTA Progress](Images/ota_progress.jpeg)
 
 > AWS IoT Job marked as Succeeded after successful firmware verification and bank swap
 
-![AWS Job Succeeded](images/aws_job_succeeded.png)
+![AWS Job Succeeded](Images/aws_job_succeeded.jpeg)
 
 > STM32 debug output showing CRC32 match and metadata write
 
-![CRC Match](images/crc_match.png)
+![CRC Match](Images/crc_match.jpeg)
 
 ---
 
