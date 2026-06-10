@@ -1,0 +1,2 @@
+../Core/Src/system_stm32f4xx.c:167:8:SystemInit	4	static,ignoring_inline_asm
+../Core/Src/system_stm32f4xx.c:225:6:SystemCoreClockUpdate	32	static

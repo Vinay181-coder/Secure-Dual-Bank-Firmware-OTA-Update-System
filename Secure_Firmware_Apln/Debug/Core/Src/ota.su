@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/ota.c:18:20:rb_push	24	static
+../Core/Src/ota.c:23:23:rb_available	4	static
+../Core/Src/ota.c:24:23:rb_pop	16	static
+../Core/Src/ota.c:32:17:crc16	24	static
+../Core/Src/ota.c:44:17:compute_crc32	48	static
+../Core/Src/ota.c:68:16:flash_erase_bank_b	40	static
+../Core/Src/ota.c:82:16:flash_write_chunk	48	static
+../Core/Src/ota.c:102:13:write_metadata_ota	96	static
+../Core/Src/ota.c:129:13:dbg	16	static
+../Core/Src/ota.c:138:13:send_ack	32	static
+../Core/Src/ota.c:154:13:send_nack	32	static
+../Core/Src/ota.c:195:6:OTA_UART_RxISR	16	static
+../Core/Src/ota.c:197:6:OTA_Init	8	static
+../Core/Src/ota.c:206:13:handle_frame	144	static
+../Core/Src/ota.c:320:6:OTA_Process	16	static
+../Core/Src/ota.c:379:13:OTA_GetState	4	static
