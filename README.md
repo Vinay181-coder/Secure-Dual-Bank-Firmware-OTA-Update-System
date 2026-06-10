@@ -138,8 +138,8 @@ GND                      →  GND
 │   ├── aws_certs.h                # Device certificate + private key + root CA
 │   ├── ota_bridge.h / ota_bridge.cpp # UART framing, chunk send, ACK handler
 │
-└── tools/
-    └── compute_crc32.py           # CRC32 tool matching STM32 hardware CRC unit
+└── compute_crc32.py           # CRC32 tool matching STM32 hardware CRC unit
+    
 ```
 
 ---
