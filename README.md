@@ -8,7 +8,7 @@ A complete end-to-end Over-the-Air (OTA) firmware update pipeline for an STM32F4
 ## Demo
 
 > OTA update in progress — ESP32-S3 downloading firmware from AWS S3 and streaming to STM32 over UART
-
+![OTA Progress](Images/ota_progress1.jpeg)
 ![OTA Progress](Images/ota_progress.jpeg)
 
 > AWS IoT Job marked as Succeeded after successful firmware verification and bank swap
